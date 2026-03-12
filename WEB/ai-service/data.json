@@ -1,0 +1,32 @@
+[
+  {
+    "user_id": 1,
+    "tanggal": "2026-02-27",
+    "deskripsi": "Aku tak pernah menyangka kesedihan bisa terasa seberat dan sesepian ini. Hujan di luar senada dengan air mata yang mengalir di pipiku. Kepergiannya meninggalkan kekosongan yang tak seorang pun bisa isi. Terkadang, bernapas saja terasa seperti tugas yang mustahil dan melelahkan. Aku rindu masa-masa kita dulu tertawa sampai subuh.",
+    "emosi_kode": 4
+  },
+    {
+    "user_id": 1,
+    "tanggal": "2026-02-28",
+    "deskripsi": "Hari ini masih terasa berat bagiku karena masih mengingat orang yang kucintai telah tiada. aku menjalani perkuliahanku dengan berat hati sambil mengingat kenangannya",
+    "emosi_kode": 2
+  },
+    {
+    "user_id": 1,
+    "tanggal": "2026-02-29",
+    "deskripsi": "Disela - sela kesedihan aku mendapatkan teman yang bisa memahami perasaaanku. dia ternyata juga kehilangan orang yang dicintainya, yaitu ibunya sendiri. kami berbagi cerita dan saling menguatkan, dan itu membuatku merasa lebih baik dalam emosi",
+    "emosi_kode": 7
+  },
+  {
+    "user_id": 1,
+    "tanggal": "2026-03-28",
+    "deskripsi": "Aku menang perlombaan yang sudah kuimpikan. aku mendapatkan uang yang banyak dari perlombaan itu. Aku harap aku bisa menang lagi",
+    "emosi_kode": 2
+  },
+  {
+    "user_id": 1,
+    "tanggal": "2026-03-29",
+    "deskripsi": "Uang yang kudapatkan dari perlombaan sudah habis, aku tidak sadar. aku bingung bagaimana aku akan membeli hadiah untuk adikku, karena uang ku sudah habis",
+    "emosi_kode": 4
+  }
+]
